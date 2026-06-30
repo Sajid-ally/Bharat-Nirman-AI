@@ -181,7 +181,7 @@ Analytics Engine
 
 ## 🔗 Links
 
-- **GitHub Repository:** https://github.com/Sajid-ally/community-hero-ai
+- **GitHub Repository:**(https://github.com/Sajid-ally/Bharat-Nirman-AI.git)
 - **Deployment Link:(https://community-hero-ai-f2872.web.app/login)
 
 
